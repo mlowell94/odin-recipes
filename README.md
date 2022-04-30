@@ -1,2 +1,2 @@
-# recipes
-A basic HTML site for recipes
+This was the second time I've made a site with HTML and the first time I made one with multiple pages.
+This project shows my base level understanding of common HTML tags and attributes. I found myself frequently double-checking my code to ensure that my site displayed properly. I was able to get used to some quirks VSCode has, as well as how to use them to get rid of some keystrokes. What stuck the most was using the command line and Git/GitHub to manage my progress. Intermittently making commits and navigating the command line really helped me fall into a sort of workflow with the project. I feel very satisfied with what I have here and I'm excited to see what I can make next.
